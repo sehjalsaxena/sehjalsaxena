@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sehjal Saxena 👋
 
-<!--
-**sehjalsaxena/sehjalsaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A pre-college student from Kurukshetra, India — deeply passionate about technology and fascinated by how digital ecosystems are built.
 
-Here are some ideas to get you started:
+I have been exploring technology since early childhood, and that curiosity never left. Now, I am channeling that decade of tech intuition into software engineering, one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack & Tools
+
+* **Git**
+* **GitHub**
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+
+---
+
+### 🔭 What I'm Up To
+- 🛠️ Mastering **Git & GitHub** to manage code workflows efficiently.
+- 💻 Deepening my skills in **HTML5, CSS3, and modern JavaScript**.
+- 🌐 Exploring the world of **Software Development, Web Architecture, and AI**.
+
+### 🌱 What I'm Working Toward
+- 🎓 Starting **CSE @ Chitkara University** · August 2026
+- 🚀 Building a rock-solid programming foundation before day one of college.
+
+### 💬 My Focus Areas
+- **Software Development** · **System Architecture** · **Artificial Intelligence**
+- ✨ *Keen eye for detail* — I love understanding how massive platforms function behind the scenes.
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sehjalsaxena/)
+- 🐦 [X / Twitter](https://x.com/sehjalsaxena)
+
+---
+
+*Always learning. Always observing. Always building.*
