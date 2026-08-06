@@ -25,9 +25,10 @@ A tech enthusiast from Kurukshetra, India. My journey with computers began when 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=sehjalsaxena&theme=dark" alt="Sehjal's GitHub Stats" />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sehjalsaxena&theme=dark" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api?username=sehjalsaxena&theme=dark" alt="Sehjal's GitHub Stats" height="170" />&nbsp;&nbsp;
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sehjalsaxena&theme=dark" alt="Top Languages" height="170" />
 </p>
+
 
 ---
 
