@@ -7,7 +7,6 @@
 
 <br/>
 
-
 <a href="mailto:workwithsehjal@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="23" alt="Email"/></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/sehjalsaxena"><img src="https://img.icons8.com/color/48/linkedin.png" width="23" alt="LinkedIn"/></a>
@@ -18,16 +17,19 @@
 &nbsp;&nbsp;
 <a href="https://x.com/sehjalsaxena"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="21" alt="X"/></a>
 
-
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="assets/signature-ascii.gif" width="42%" alt="S. signature forming in ASCII"/>
-</p>
+<table width="100%">
+<tr>
+<td width="42%" align="center" valign="middle">
+  <img src="assets/signature-ascii.gif" width="100%" alt="S. signature forming in ASCII"/>
+</td>
+<td width="58%" valign="middle">
 
-```js
+<pre>
+<code>
 const sehjal = {
   name: "Sehjal Saxena",
   role: "CSE Undergraduate",
@@ -42,7 +44,12 @@ const sehjal = {
 
   approach: "Learn by building."
 };
-```
+</code>
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +75,7 @@ I'm still exploring different areas of Computer Science, figuring out what inter
 
 I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights. You can explore more of my work in my <a href="https://sehjalsaxena.me/#projects">portfolio</a>.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -76,10 +83,12 @@ I've worked on a range of projects across web development, AI, and experimentati
 
 A student-curated academic resource platform built to make engineering study materials easier to access.
 
-- Unit-wise notes and academic resources
-- Question banks and coding practice
-- Search, command palette, and exam-focused tools
-- Community-driven contributions
+<ul>
+<li>Unit-wise notes and academic resources</li>
+<li>Question banks and coding practice</li>
+<li>Search, command palette, and exam-focused tools</li>
+<li>Community-driven contributions</li>
+</ul>
 
 <a href="https://studydump.vercel.app/">Visit Website ↗</a>
 
@@ -90,9 +99,11 @@ A student-curated academic resource platform built to make engineering study mat
 
 An AI-powered safety concept addressing coached UPI payment scams, developed for the RAKSHAM AI Cybersecurity Hackathon at IIT Delhi.
 
-- Context-aware scam detection
-- Pre-payment safety intervention
-- Android-based simulated payment application
+<ul>
+<li>Context-aware scam detection</li>
+<li>Pre-payment safety intervention</li>
+<li>Android-based simulated payment application</li>
+</ul>
 
 <a href="https://github.com/sehjalsaxena/script-break">Explore Repository ↗</a>
 
