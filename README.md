@@ -28,8 +28,7 @@
 </td>
 <td width="58%" valign="middle">
 
-<pre>
-<code>
+```js
 const sehjal = {
   name: "Sehjal Saxena",
   role: "CSE Undergraduate",
@@ -44,8 +43,7 @@ const sehjal = {
 
   approach: "Learn by building."
 };
-</code>
-</pre>
+```
 
 </td>
 </tr>
