@@ -1,30 +1,31 @@
 
 <div align="center">
 
-# Sehjal Saxena
+<h1><strong>Sehjal Saxena</strong></h1>
 
-**CSE Undergraduate · Developer · Curious by default**
+<h3><strong>CSE Undergraduate &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Curious by default</strong></h3>
 
-<a href="mailto:workwithsehjal@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/sehjalsaxena/">LinkedIn</a> ·
-<a href="https://github.com/sehjalsaxena">GitHub</a> ·
-<a href="https://sehjalsaxena.me/">Portfolio</a> ·
-<a href="https://x.com/sehjalsaxena">X</a>
+<br/>
 
-<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
+
+<a href="mailto:workwithsehjal@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="23" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sehjalsaxena"><img src="https://img.icons8.com/color/48/linkedin.png" width="23" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/sehjalsaxena"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="23" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<a href="https://sehjalsaxena.me/" title="Portfolio"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f310.svg" width="23" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://x.com/sehjalsaxena"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="21" alt="X"/></a>
+
 
 </div>
 
-<br>
+<br/>
 
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
-
-<img src="assets/signature-ascii.gif" width="100%" alt="S. signature forming in ASCII"/>
-
-</td>
-<td width="58%" valign="middle">
+<p align="center">
+  <img src="assets/signature-ascii.gif" width="42%" alt="S. signature forming in ASCII"/>
+</p>
 
 ```js
 const sehjal = {
@@ -43,13 +44,9 @@ const sehjal = {
 };
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-## A little about me
+## About Me
 
 My relationship with computers started when I was around four years old. What began as childhood curiosity slowly turned into something much deeper.
 
@@ -69,26 +66,27 @@ I'm still exploring different areas of Computer Science, figuring out what inter
 
 ## Selected Projects
 
-I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights — you can explore more of my work in the **<a href="https://sehjalsaxena.me/#projects">portfolio</a>**.
+I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights. You can explore more of my work in my <a href="https://sehjalsaxena.me/#projects">portfolio</a>.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://studydump.vercel.app/">StudyDump</a>
+<h3><a href="https://studydump.vercel.app/">StudyDump</a></h3>
 
 A student-curated academic resource platform built to make engineering study materials easier to access.
 
-- Unit-wise notes and resources
+- Unit-wise notes and academic resources
 - Question banks and coding practice
-- Search and exam-focused tools
+- Search, command palette, and exam-focused tools
+- Community-driven contributions
 
-<a href="https://studydump.vercel.app/">Visit Website →</a>
+<a href="https://studydump.vercel.app/">Visit Website ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/sehjalsaxena/script-break">ScriptBreak / DemoPay</a>
+<h3><a href="https://github.com/sehjalsaxena/script-break">ScriptBreak / DemoPay</a></h3>
 
 An AI-powered safety concept addressing coached UPI payment scams, developed for the RAKSHAM AI Cybersecurity Hackathon at IIT Delhi.
 
@@ -96,7 +94,7 @@ An AI-powered safety concept addressing coached UPI payment scams, developed for
 - Pre-payment safety intervention
 - Android-based simulated payment application
 
-<a href="https://github.com/sehjalsaxena/script-break">Explore Repository →</a>
+<a href="https://github.com/sehjalsaxena/script-break">Explore Repository ↗</a>
 
 </td>
 </tr>
@@ -105,9 +103,17 @@ An AI-powered safety concept addressing coached UPI payment scams, developed for
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sehjalsaxena&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehjalsaxena&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/overview.dark.svg"/>
+    <img src="assets/overview.light.svg" width="90%" alt="GitHub overview"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages.dark.svg"/>
+    <img src="assets/languages.light.svg" width="90%" alt="GitHub language statistics"/>
+  </picture>
 </p>
 
 ## Outside the Usual
@@ -128,7 +134,11 @@ I guess curiosity doesn't always follow a particular direction.
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sehjalsaxena/sehjalsaxena/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sehjalsaxena/sehjalsaxena/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sehjalsaxena/sehjalsaxena/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/sehjalsaxena/sehjalsaxena/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+  </picture>
 </p>
 
 ---
@@ -136,7 +146,5 @@ I guess curiosity doesn't always follow a particular direction.
 <div align="center">
 
 <i>Still learning. Still building. Still probably breaking things occasionally.</i>
-
-<sub>· · ·</sub>
 
 </div>
