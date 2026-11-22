@@ -73,7 +73,7 @@ I'm still exploring different areas of Computer Science, figuring out what inter
 
 ## Selected Projects
 
-I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights. You can explore more of my work in my <a href="https://sehjalsaxena.me/#projects">portfolio</a>.
+I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights. You can explore more of my work in my <a href="https://sehjalsaxena.me/#/projects/">portfolio</a>.
 
 <table width="100%">
 <tr>
