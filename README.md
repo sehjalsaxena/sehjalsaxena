@@ -1,19 +1,28 @@
- <h1 align="center">Sehjal Saxena</h1>
 
-<p align="center">
-  <a href="mailto:workwithsehjal@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/sehjalsaxena/">LinkedIn</a> ·
-  <a href="https://github.com/sehjalsaxena">GitHub</a> ·
-  <a href="https://sehjalsaxena.me/">Portfolio</a> ·
-  <a href="https://x.com/sehjalsaxena">X</a>
-</p>
+<div align="center">
+
+# Sehjal Saxena
+
+**CSE Undergraduate · Developer · Curious by default**
+
+<a href="mailto:workwithsehjal@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/sehjalsaxena/">LinkedIn</a> ·
+<a href="https://github.com/sehjalsaxena">GitHub</a> ·
+<a href="https://sehjalsaxena.me/">Portfolio</a> ·
+<a href="https://x.com/sehjalsaxena">X</a>
+
+<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
+
+</div>
 
 <br>
 
 <table>
 <tr>
 <td width="42%" align="center" valign="middle">
-  <img src="assets/signature-ascii.gif" width="100%" alt="S. signature forming in ASCII"/>
+
+<img src="assets/signature-ascii.gif" width="100%" alt="S. signature forming in ASCII"/>
+
 </td>
 <td width="58%" valign="middle">
 
@@ -40,31 +49,33 @@ const sehjal = {
 
 ---
 
-### A little about me
+## A little about me
 
 My relationship with computers started when I was around four years old. What began as childhood curiosity slowly turned into something much deeper.
 
 Over the years, I've experimented, broken things, fixed things, dealt with viruses, managed to burn a PC once, and spent countless hours figuring out how technology works. Nearly 15 years later, that curiosity hasn't really gone anywhere.
 
-I enjoy building things from scratch, exploring ideas, and finding solutions to problems that people actually face. I'm particularly drawn to the intersection of technology, design, and product thinking.
+I enjoy building things from scratch, exploring ideas, and finding solutions to problems that people actually face. I'm particularly drawn to the intersection of **technology, design, and product thinking.**
 
 I have a soft spot for thoughtful interfaces and the little details that make a product feel right. I tend to notice inconsistencies, unnecessary friction, and things that could be done better. I enjoy refining them just as much as building the initial idea.
 
 I'm still exploring different areas of Computer Science, figuring out what interests me most, and learning along the way.
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,vite,firebase,supabase,postgres,git,github,linux,cloudflare&perline=7" alt="Technologies and tools"/>
 </p>
 
-### Things I've Built
+## Selected Projects
+
+I've worked on a range of projects across web development, AI, and experimentation. Here are a few highlights — you can explore more of my work in the **<a href="https://sehjalsaxena.me/#projects">portfolio</a>**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[StudyDump](https://studydump.vercel.app/)**
+### <a href="https://studydump.vercel.app/">StudyDump</a>
 
 A student-curated academic resource platform built to make engineering study materials easier to access.
 
@@ -72,12 +83,12 @@ A student-curated academic resource platform built to make engineering study mat
 - Question banks and coding practice
 - Search and exam-focused tools
 
-[Visit Website →](https://studydump.vercel.app/)
+<a href="https://studydump.vercel.app/">Visit Website →</a>
 
 </td>
 <td width="50%" valign="top">
 
-**[ScriptBreak / DemoPay](https://github.com/sehjalsaxena/script-break)**
+### <a href="https://github.com/sehjalsaxena/script-break">ScriptBreak / DemoPay</a>
 
 An AI-powered safety concept addressing coached UPI payment scams, developed for the RAKSHAM AI Cybersecurity Hackathon at IIT Delhi.
 
@@ -85,13 +96,13 @@ An AI-powered safety concept addressing coached UPI payment scams, developed for
 - Pre-payment safety intervention
 - Android-based simulated payment application
 
-[Explore Repository →](https://github.com/sehjalsaxena/script-break)
+<a href="https://github.com/sehjalsaxena/script-break">Explore Repository →</a>
 
 </td>
 </tr>
 </table>
 
-### GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sehjalsaxena&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics"/>
@@ -99,7 +110,7 @@ An AI-powered safety concept addressing coached UPI payment scams, developed for
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehjalsaxena&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 </p>
 
-### Outside the Usual
+## Outside the Usual
 
 Not everything I explore has to become a software project.
 
@@ -114,7 +125,7 @@ I'm the kind of person who:
 
 I guess curiosity doesn't always follow a particular direction.
 
-### Contributions
+## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sehjalsaxena/sehjalsaxena/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
@@ -122,6 +133,10 @@ I guess curiosity doesn't always follow a particular direction.
 
 ---
 
-<p align="center">
-  <i>Still learning. Still building. Still probably breaking things occasionally.</i>
-</p>
+<div align="center">
+
+<i>Still learning. Still building. Still probably breaking things occasionally.</i>
+
+<sub>· · ·</sub>
+
+</div>
